@@ -63,7 +63,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 <!-- REAL WORLD PROJECTS -->
 <h2 align="center">Real World Projects</h2>
 
-<p>
+<p align="center">
 Production works, Team Collaboration, On-going and Enterprise Offline Projects. 
 </p>
 
