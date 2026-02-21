@@ -60,8 +60,12 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 <br>
 <hr>
 
-<!-- PROJECTS -->
-<h2 align="center">Projects</h2>
+<!-- REAL WORLD PROJECTS -->
+<h2 align="center">Real World Projects</h2>
+
+<p>
+Production works, Team Collaboration, On-going and Enterprise Offline Projects. 
+</p>
 
 <div align="center">
 <table>
