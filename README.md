@@ -38,6 +38,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75" alt="React Logo"/>
   <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="75" height="75" alt="Livewire Logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
@@ -54,7 +55,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75"/>
 
   <br>
-  <small><i>See more detailed technologies and skills below.</i></small>
+  <small><i>See more detailed technologies and skills on the Technology Expertise section below.</i></small>
 </div>
 
 <br>
@@ -451,8 +452,13 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Flux UI"/>
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+
+### **Web 3d & Animations**
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 
 ### **Backend & Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -463,8 +469,6 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
 <img src="https://img.shields.io/badge/Artisan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Artisan"/>
