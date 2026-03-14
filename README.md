@@ -65,7 +65,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 <h2 align="center">Real World Projects</h2>
 
 <p align="center">
-Production works, Team Collaboration, On-going and Enterprise Offline Projects. 
+Live Production Systems, Production-ready Projects awaiting deployment or pilot partnership, Team Collaboration and Enterprise-grade Offline Projects.
 </p>
 
 <div align="center">
@@ -204,7 +204,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo (waiting)-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo-awaiting-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -241,7 +241,7 @@ Monitors employee time-in/time-out and daily tracking.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live (Ended)-lightgrey?style=for-the-badge&color=0892d0"/>
+<img src="https://img.shields.io/badge/Live-Ended-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
 
@@ -310,7 +310,7 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 <img src="https://img.shields.io/badge/GitLab-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live (various)-lightgrey?style=for-the-badge&color=0892d0"/>
+<img src="https://img.shields.io/badge/Live-various-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
 
@@ -342,7 +342,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo (on-going)-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo-ongoing-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -388,7 +388,7 @@ Desktop-based system for managing cooperatives including membership, transaction
   </a>
   &nbsp;&nbsp;
   <a href="https://aimperial.net" target="_blank">
-    <img src="https://img.shields.io/badge/-Website (Ended)-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/-Website-ended-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
