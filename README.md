@@ -56,7 +56,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 
   <br>
   <small><i>See more detailed technologies and skills on the Technology Expertise section below.</i></small>
-  <small><i>[See more detailed technologies and skills on the Technology Expertise section below](#technology-expertise)</i></small>
+  <small><i><a href="#tech-section">See more detailed technologies and skills</a></i></small>
 </div>
 
 <br>
@@ -457,7 +457,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 > “Build systems that outlast trends, not just ship features.”
 ---
 
-<a name="technology-expertise"></a>
+<div id="tech-section"></div>
 ## 🛠️ Technology Expertise Summarized by Areas
 
 ### **Core Competencies**
