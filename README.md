@@ -4,6 +4,8 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Recent Views](https://komarev.com/ghpvc/?username=adonisimperial&color=blue)
+<img src="https://komarev.com/ghpvc/?username=adonisimperial&label=Recent%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
 <h3 align="center">Web Developer • Software Engineer</h3>
@@ -419,9 +421,15 @@ Desktop-based system for managing cooperatives including membership, transaction
 <!-- ![](https://github-profile-trophy.vercel.app/?username=adonisimperial&theme=transparent&no-frame=false&no-bg=true&margin-w=4) -->
 <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adonisimperial" />
 
+<!--
 <h2 align="center">Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=adonisimperial&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+-->
+
+<h2 align="center">Contribution Activity</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adonisimperial&theme=github-compact&hide_border=true" />
 
 </div>
 
