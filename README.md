@@ -4,8 +4,6 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-![Recent Views](https://komarev.com/ghpvc/?username=adonisimperial&color=blue)
-<img src="https://komarev.com/ghpvc/?username=adonisimperial&label=Recent%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
 <h3 align="center">Web Developer • Software Engineer</h3>
@@ -585,8 +583,14 @@ Desktop-based system for managing cooperatives including membership, transaction
 - **Security:** Authentication, Authorization, Role-Based Access Control (RBAC)
 - **Best Practices:** Clean Code, SOLID, DRY, KISS, SOAP, YAGNI, Database Normalization
 
+<h2 align="center">Today's Visit</h2>
 
+<div align="center">
+  
+![Recent Views](https://komarev.com/ghpvc/?username=adonisimperial&color=blue)
+<img src="https://komarev.com/ghpvc/?username=adonisimperial&label=Recent%20Views&color=0e75b6&style=flat" />
 
+</div>
 
 
 <!--
