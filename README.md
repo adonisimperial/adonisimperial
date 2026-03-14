@@ -204,7 +204,10 @@ Tracks student entry logs and presence on campus (not yet in production).
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/GitHub (awaiting)-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Awaiting-lightgrey?style=for-the-badge&color=0892d0"/>
+</a> 
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -388,7 +391,7 @@ Desktop-based system for managing cooperatives including membership, transaction
   </a>
   &nbsp;&nbsp;
   <a href="https://aimperial.net" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ended-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website (ended)-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
