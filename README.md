@@ -541,13 +541,11 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![Server Management](https://img.shields.io/badge/Server_Management-009639?style=for-the-badge&logo=serverless&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0CAA41?style=for-the-badge&logo=seo&logoColor=white)
 
-### **WordPress Themes**
+### **WordPress Themes & Custom Development**
 ![Elementor](https://img.shields.io/badge/-Elementor-109AD3?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Divi](https://img.shields.io/badge/-Divi-6C3483?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WPBakery](https://img.shields.io/badge/-WPBakery-FF6600?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/-Gutenberg-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
-
-### **WordPress Custom Development**
 ![Gutenberg Blocks](https://img.shields.io/badge/-Gutenberg%20Block%20Dev-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
 ![Custom Theme Dev](https://img.shields.io/badge/-Theme%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Custom Plugin Dev](https://img.shields.io/badge/-Plugin%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -560,10 +558,8 @@ Desktop-based system for managing cooperatives including membership, transaction
 
 ### **Desktop & Enterprise Systems (VB Environment)**
 
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logoColor=white)
 ![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
