@@ -86,7 +86,7 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>
 <a href="https://icoophub.com" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -128,7 +128,7 @@ financial categorization, and government reporting.
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a> 
 <a href="https://dcetabulator.com" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -169,7 +169,7 @@ A powerful and flexible online tabulation system designed to manage and show res
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -204,7 +204,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-awaiting-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub (awaiting)-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -241,7 +241,7 @@ Monitors employee time-in/time-out and daily tracking.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-Ended-lightgrey?style=for-the-badge&color=0892d0"/>
+<img src="https://img.shields.io/badge/Live (ended)-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>  
 </p>
 
@@ -306,12 +306,12 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 <br><br>
 
 <p>
+<a href="https://catchcreativelabs.com/" target="_blank">
+<img src="https://img.shields.io/badge/Live (various)-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/GitLab-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live-various-lightgrey?style=for-the-badge&color=0892d0"/>
-</a>  
+</a>
 </p>
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -342,7 +342,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-ongoing-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub (ongoing)-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
