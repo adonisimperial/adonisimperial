@@ -91,7 +91,7 @@ Production works, Team Collaboration, On-going and Enterprise Offline Projects.
 </p>
 
 ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -174,7 +174,7 @@ A powerful and flexible online tabulation system designed to manage and show res
 </p>
 
 ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -209,7 +209,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 </p>
 
 ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire 3](https://img.shields.io/badge/-Livewire%203-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Livewire 3](https://img.shields.io/badge/-Livewire%203-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -447,14 +447,14 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### **Frontend & Styling**
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+<img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Flux UI"/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Flux UI"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/Ionic-FFCA28?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 
 ### **Web 3d & Animations**
 <p>
@@ -463,9 +463,9 @@ Desktop-based system for managing cooperatives including membership, transaction
 <p/>
 
 ### **Backend & Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -534,14 +534,14 @@ Desktop-based system for managing cooperatives including membership, transaction
 ## Specialized Skills
 
 - **Code/Query Optimization** & **Web Performance** tuning
-- **Web Security**: SQL injection prevention, CSRF protection, rate limiting, XSS mitigation, DDoS protection
+- **Web Security**: SQL injection prevention, CSRF protection, rate limiting, XSS mitigation, DDoS protection, JWT Authentication
 - **Email Security**: SPF/DKIM/DMARC configuration
 - **Server Management**: Hostinger, cron jobs, email systems, domain/hosting setup
-- **Methodologies**: SCSS, SMACSS, BEM architecture
+- **Methodologies**: SCSS, SMACSS, BEM architecture, Separation of Concerns, Reusable Component Design, Performance Optimization
 
 ### Software Engineering Concepts
-- **Design Patterns:** Repository Pattern, Service Layer, Observer Pattern
-- **Architecture:** MVC, RESTful API Design, Scalable Backend Architecture
+- **Design Patterns:** Repository Pattern, Service Layer, Observer Pattern, Component-Based Architecture, State Management Patterns
+- **Architecture:** MVC, RESTful API Design, Scalable Backend Architecture, SPA Architecture, Client–Server Rendering Strategies (CSR/SSR)
 - **Security:** Authentication, Authorization, Role-Based Access Control (RBAC)
 - **Best Practices:** Clean Code, SOLID, DRY, KISS, SOAP, YAGNI, Database Normalization
 
