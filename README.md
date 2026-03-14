@@ -345,7 +345,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Local (ongoing)-lightgrey?style=for-the-badge&color=white"/>
+<img src="https://img.shields.io/badge/Local (ongoing)-lightgrey?style=for-the-badge&color=lightgrey"/>
 </a> 
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
