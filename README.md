@@ -37,13 +37,13 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="75" height="75"/>
+  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="75" height="75" alt="Livewire Logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75" alt="React Logo"/>
-  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="75" height="75" alt="Livewire Logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="75" height="75"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="75" height="75"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="75" height="75"/>
   <img src="https://static.cdnlogo.com/logos/v/58/vb-net.svg" width="75" height="75" alt="VB.NET Logo"/>
@@ -83,11 +83,11 @@ Production works, Team Collaboration, On-going and Enterprise Offline Projects.
 
 <p>
 <a href="https://icoophub.com" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://icoophub.com" target="_blank">
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>
+<a href="https://icoophub.com" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
 </p>
 
 ![Laravel 12](https://img.shields.io/badge/-Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -125,11 +125,11 @@ financial categorization, and government reporting.
 
 <p>
 <a href="https://dcetabulator.com" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-</a>  
-<a href="https://dcetabulator.com" target="_blank">
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a> 
+<a href="https://dcetabulator.com" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
 </p>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -255,7 +255,7 @@ Includes social networking, chat messaging, and forum functionalities.
 </div>
 
 <ul>
-<li>Custom WordPress blocks and forum integration</li>
+<li>Custom WordPress blocks, social network, messaging and forum integration</li>
 <li>Built for DCE Tabuk City Mayor</li>
 </ul> 
 
@@ -388,7 +388,7 @@ Desktop-based system for managing cooperatives including membership, transaction
   </a>
   &nbsp;&nbsp;
   <a href="https://aimperial.net" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/-Website (Ended)-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
