@@ -497,13 +497,13 @@ Desktop-based system for managing cooperatives including membership, transaction
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 
-### Local Development
+### **Local Development**
 <p>
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 <img src="https://img.shields.io/badge/Local-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Local by Flywheel"/>
 </p>
 
-### Laravel Ecosystem & Features
+### **Laravel Ecosystem & Features**
 <p>
 <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM"/>
 <img src="https://img.shields.io/badge/Middleware-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Middleware"/>
@@ -517,20 +517,20 @@ Desktop-based system for managing cooperatives including membership, transaction
 <img src="https://img.shields.io/badge/Caching-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Caching"/>
 </p>
 
-### Payment Integration
+### **Payment Integration**
 <p>
 <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </p>
 
-### Real-Time Communication
+### **Real-Time Communication**
 <p>
 <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="Pusher"/>
 </p>
 
-### Visualization
+### **Visualization**
 <img src="https://img.shields.io/badge/Chart.js-F7931E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 
-### Database & Performance
+### **Database & Performance**
 <p>
 <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Design"/>
 <img src="https://img.shields.io/badge/Query_Optimization-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Query Optimization"/>
@@ -540,6 +540,30 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Operations**
 ![Server Management](https://img.shields.io/badge/Server_Management-009639?style=for-the-badge&logo=serverless&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0CAA41?style=for-the-badge&logo=seo&logoColor=white)
+
+### **WordPress Themes**
+![Elementor](https://img.shields.io/badge/-Elementor-109AD3?style=for-the-badge&logo=wordpress&logoColor=white)
+![Divi](https://img.shields.io/badge/-Divi-6C3483?style=for-the-badge&logo=wordpress&logoColor=white)
+![WPBakery](https://img.shields.io/badge/-WPBakery-FF6600?style=for-the-badge&logo=wordpress&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/-Gutenberg-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
+
+### **WordPress Custom Development**
+![Gutenberg Blocks](https://img.shields.io/badge/-Gutenberg%20Block%20Dev-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
+![Custom Theme Dev](https://img.shields.io/badge/-Theme%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Custom Plugin Dev](https://img.shields.io/badge/-Plugin%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Custom Post Types](https://img.shields.io/badge/-Custom%20Post%20Types-8A2BE2?style=for-the-badge&logo=wordpress&logoColor=white)
+![Custom Taxonomies](https://img.shields.io/badge/-Custom%20Taxonomies-8A2BE2?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shortcodes](https://img.shields.io/badge/-Shortcodes-FF6600?style=for-the-badge&logo=wordpress&logoColor=white)
+![WP REST API](https://img.shields.io/badge/-WP%20REST%20API-4A4A4A?style=for-the-badge&logo=wordpress&logoColor=white)
+![ACF (Advanced Custom Fields)](https://img.shields.io/badge/-Advanced%20Custom%20Fields-0055A5?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce Dev](https://img.shields.io/badge/-WooCommerce%20Dev-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### **Desktop & Enterprise Systems (VB Environment)**
+
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
 
