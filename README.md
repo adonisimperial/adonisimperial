@@ -204,7 +204,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo (waiting)-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
@@ -216,7 +216,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 <h4>QR Code-Based Employee Attendance</h4>
 
 <p>
-Monitors employee time-in/time-out and daily tracking (ongoing project).
+Monitors employee time-in/time-out and daily tracking.
 </p>
 </div>
 
@@ -342,7 +342,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo (on-going)-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 </p>
 
