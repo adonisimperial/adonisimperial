@@ -249,6 +249,7 @@ Monitors employee time-in/time-out and daily tracking.
 </p>
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-109AD3?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <h4>City Mayor Personal & Political Website</h4>
 
@@ -281,6 +282,7 @@ Includes social networking, chat messaging, and forum functionalities.
 </p>
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-109AD3?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <h4>Corporate Website with Cargo Tracking</h4>
 
@@ -318,6 +320,10 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 </p>
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-109AD3?style=for-the-badge&logo=wordpress&logoColor=white)
+![Divi](https://img.shields.io/badge/-Divi-6C3483?style=for-the-badge&logo=wordpress&logoColor=white)
+![WPBakery](https://img.shields.io/badge/-WPBakery-FF6600?style=for-the-badge&logo=wordpress&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/-Gutenberg-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
 
 <h4>Corporate & Small Business Websites</h4>
 
@@ -353,8 +359,8 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 </p>
 
 ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logo=business-intelligence&logoColor=white)
+![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <h4>Cooperative Management System</h4>
