@@ -388,7 +388,7 @@ Desktop-based system for managing cooperatives including membership, transaction
   </a>
   &nbsp;&nbsp;
   <a href="https://aimperial.net" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-ended-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-ended-4B9CE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
