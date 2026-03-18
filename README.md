@@ -4,7 +4,7 @@
 </div>
   
 <!-- ![Recent Views](https://komarev.com/ghpvc/?username=adonisimperial&color=blue) -->
-<img src="https://komarev.com/ghpvc/?username=adonisimperial&label=Visitors%20Since%20Marc&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=adonisimperial&label=Visitors%20Since%20March2026&color=0e75b6&style=flat" />
 
 <h1 align="center">Hi 👋, I’m Adonis Imperial</h1>
 <h3 align="center">Web Developer • Software Engineer</h3>
