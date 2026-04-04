@@ -11,7 +11,7 @@
 
 <div align="center">
 <p>
-I specialize in modern web development with <strong>8+ years of experience</strong>, focusing on the TALL and LAMP stacks for enterprise systems and React for frontend or web animation projects. I’ve built secure, scalable systems for cooperatives, communities, and businesses. I currently serve as <strong>IT Officer at the City Government of Tabuk</strong>, and previously worked as a Web Developer at <strong>Catch Creative Labs</strong> while continuing freelance projects.
+I specialize in modern web development with <strong>7+ years of experience</strong>, focusing on the TALL and LAMP stacks for enterprise systems and React for frontend or web animation projects. I’ve built secure, scalable systems for cooperatives, communities, and businesses. I currently serve as <strong>IT Officer at the City Government of Tabuk</strong>, and previously worked as a Web Developer at <strong>Catch Creative Labs</strong> while continuing freelance projects.
 </p>
 <p>
 I deliver clean, maintainable, production‑ready solutions that make a real impact.
