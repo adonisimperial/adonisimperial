@@ -22,11 +22,15 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" height="48" alt="Livewire"/>
-  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,alpinejs,mysql,redis,linux&theme=light" />
+  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,alpinejs,mysql,postgresql,redis,linux&theme=light" />
+  <br><br>
 
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
+![PERN Stack](https://img.shields.io/badge/PERN_Stack-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
 <hr>
@@ -34,9 +38,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 <!-- SKILLS -->
 <div align="center">
   <h2>Skills</h2>
-  <br>
 
-  <!-- Row 1 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="60"/>
   <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="60"/>
@@ -47,9 +49,6 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="60"/>
-  <br>
-
-  <!-- Row 2 -->
   <img src="https://static.cdnlogo.com/logos/v/58/vb-net.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
@@ -57,7 +56,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
 
-  <br>
+  <br><br>
   <small><i>See more detailed technologies and skills on the Technology Expertise section below.</i></small><br>
   <small><i><a href="#tech-section">See more...</a></i></small>
 </div>
@@ -473,7 +472,10 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Backend & Databases**
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
+![PERN Stack](https://img.shields.io/badge/PERN_Stack-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 
 ### **Frontend & Styling**
 ![Livewire](https://img.shields.io/badge/Livewire-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
@@ -507,7 +509,6 @@ Desktop-based system for managing cooperatives including membership, transaction
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-FF6C37?style=for-the-badge&logo=mysql&logoColor=white" alt="phpMyAdmin"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 
 ### **Local Development**
 <p>
