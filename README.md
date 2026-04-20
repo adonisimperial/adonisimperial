@@ -422,30 +422,23 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adonisimperial&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=adonisimperial&theme=transparent&hide_border=false" />
 <br/>
-<!-- nirzak don't work sometimes; github-readme-streak is working but demolab is better modern fork
-<img src="https://nirzak-streak-stats.vercel.app/?user=adonisimperial&theme=transparent&hide_border=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adonisimperial&theme=transparent&hide_border=false" />
 -->
 <img src="https://streak-stats.demolab.com/?user=adonisimperial&theme=transparent&hide_border=false" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonisimperial&theme=transparent&hide_border=false&layout=compact" />
 
+<!--
 <h2>GitHub Trophies</h2>
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=adonisimperial&theme=transparent&no-frame=false&no-bg=true&margin-w=4) -->
 <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=adonisimperial" />
-
-<!--
-<h2>Top Contributed Repo</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=adonisimperial&limit=5&theme=transparent&combine_all_yearly_contributions=true)
--->
 
 <h2 align="center">Contribution Activity</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adonisimperial&theme=github-compact&hide_border=true" />
+-->
 
 </div>
 
