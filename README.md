@@ -311,7 +311,7 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 <h3 align="center">Various US Clients</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/usclients.png" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOw-6mQi7YC9C7O770qsp1y-xNUyTYdQ4bOw&s" width="50%" />
 </a>
 
 <br><br>
@@ -350,7 +350,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 <h3 align="center">CoopMS</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/coopms.png" width="100%" />
+<img src="https://www.icoophub.com/storage/logos/fCk4YYoeMC0CjyUx5En3dRqOxnNyB7M9xcpmiBse.jpg" width="50%" />
 </a>
 
 <br><br>
