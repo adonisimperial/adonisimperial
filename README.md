@@ -25,13 +25,14 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
   <br>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,alpinejs,mysql,postgresql,redis,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,alpinejs,mysql,postgresql&theme=light" />
   <br><br>
 
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
 <!--![PERN Stack](https://img.shields.io/badge/PERN_Stack-336791?style=for-the-badge&logo=postgresql&logoColor=white)-->
-![T3 Stack](https://img.shields.io/badge/T3_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<!--![T3 Stack](https://img.shields.io/badge/T3_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)-->
+![Next.js Stack](https://img.shields.io/badge/Next.js_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
 </div>
 
 <hr>
@@ -45,6 +46,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
@@ -54,7 +56,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60"/>-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
 
   <br><br>
@@ -469,7 +471,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 **Always learning, always building. Let's create something incredible!**
 
 ---
-> “Build systems that outlast trends, not just ship features.”
+> “Build systems that solve real problems and outlast trends, not just ship features.”
 ---
 
 <div id="tech-section"></div>
@@ -486,7 +488,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Backend & Databases**
 ![TALL Stack](https://img.shields.io/badge/TALL_Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![LAMP Stack](https://img.shields.io/badge/LAMP_Stack-007396?style=for-the-badge&logo=linux&logoColor=white)
-![T3 Stack](https://img.shields.io/badge/T3_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js Stack](https://img.shields.io/badge/Next.js_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
