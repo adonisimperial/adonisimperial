@@ -525,10 +525,12 @@ Desktop-based system for managing cooperatives including membership, transaction
 <img src="https://img.shields.io/badge/Browser_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Browser DevTools"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-FF6C37?style=for-the-badge&logo=mysql&logoColor=white" alt="phpMyAdmin"/>
+<img src="https://img.shields.io/badge/HeidiSQL-0B4F6C?style=for-the-badge&logo=mysql&logoColor=white" alt="HeidiSQL"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
 
 ### **Local Development**
 <p>
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon"/>
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 <img src="https://img.shields.io/badge/Local-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Local by Flywheel"/>
 </p>
