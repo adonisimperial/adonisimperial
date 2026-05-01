@@ -102,6 +102,8 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<small><i>TALL stack, SCSS, SMACSS, BEM</i></small>
+
 <h4>Web-based Cooperative Profiling & Monitoring System</h4>
 
 <p>
@@ -142,6 +144,8 @@ financial categorization, and government reporting.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<small><i>MVC, SCSS</i></small>
 
 <h4>Customized Online Tabulation System</h4>
 
@@ -184,6 +188,8 @@ A powerful and flexible online tabulation system designed to manage and show res
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<small><i>TALL stack, SCSS, SMACSS, BEM</i></small>
+
 <h4>QR Code-Based Student Attendance</h4>
 
 <p>
@@ -221,6 +227,8 @@ Tracks student entry logs and presence on campus (not yet in production).
 ![Livewire 3](https://img.shields.io/badge/-Livewire%203-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<small><i>TALL stack, SCSS, SMACSS, BEM</i></small>
 
 <h4>QR Code-Based Employee Attendance</h4>
 
@@ -330,6 +338,8 @@ Includes shipment tracking, client dashboard, and enterprise-grade theme customi
 ![Divi](https://img.shields.io/badge/-Divi-6C3483?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WPBakery](https://img.shields.io/badge/-WPBakery-FF6600?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/-Gutenberg-205BA7?style=for-the-badge&logo=gutenberg&logoColor=white)
+
+<small><i>Team Collaboration, US Clients</i></small>
 
 <h4>Corporate & Small Business Websites</h4>
 
