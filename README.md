@@ -554,14 +554,27 @@ Desktop-based system for managing cooperatives including membership, transaction
 <img src="https://img.shields.io/badge/Caching-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Caching"/>
 </p>
 
+### **Authentication & Authorization**
+![Laravel Auth](https://img.shields.io/badge/Laravel_Auth-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire/Inertia](https://img.shields.io/badge/Livewire/Inertia-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Fortify](https://img.shields.io/badge/Fortify-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **API & Architecture**
+![RESTful API](https://img.shields.io/badge/RESTful_API-4A4A4A?style=for-the-badge&logo=api&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-DC382D?style=for-the-badge&logo=laravel&logoColor=white)
+![Throttle](https://img.shields.io/badge/Throttle-DC382D?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **Real-Time & Broadcasting**
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Broadcasting](https://img.shields.io/badge/Laravel_Broadcasting-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1E90FF?style=for-the-badge&logo=websocket&logoColor=white)
+
 ### **Payment Integration**
 <p>
 <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</p>
-
-### **Real-Time Communication**
-<p>
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" alt="Pusher"/>
 </p>
 
 ### **Visualization**
