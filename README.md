@@ -24,6 +24,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <h2>Tech Stack</h2>
   <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="48" />
   <br>
   <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,alpinejs,mysql,postgresql&theme=light" />
   <br><br>
@@ -33,6 +34,8 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 <!--![PERN Stack](https://img.shields.io/badge/PERN_Stack-336791?style=for-the-badge&logo=postgresql&logoColor=white)-->
 <!--![T3 Stack](https://img.shields.io/badge/T3_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)-->
 ![Next.js Stack](https://img.shields.io/badge/Next.js_Stack-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 </div>
 
 <hr>
@@ -484,6 +487,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### **Backend & Databases**
@@ -497,9 +501,10 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Frontend & Styling**
 ![Livewire](https://img.shields.io/badge/Livewire-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-<img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Flux UI"/>
+<img src="https://img.shields.io/badge/Flux_UI-007ACC?style=for-the-badge" alt="Flux UI" />
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 <img src="https://img.shields.io/badge/Ionic-FFCA28?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
@@ -562,6 +567,12 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Visualization**
 <img src="https://img.shields.io/badge/Chart.js-F7931E?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 
+### **Mapping & Geolocation**
+![Google Maps](https://img.shields.io/badge/Google_Maps-EA4335?style=for-the-badge&logo=google-maps&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ### **Database & Performance**
 <p>
 <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Design"/>
@@ -570,7 +581,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 </p>
 
 ### **Operations**
-![Server Management](https://img.shields.io/badge/Server_Management-009639?style=for-the-badge&logo=serverless&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server_Management-0055cc?style=for-the-badge&logo=linux&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-0CAA41?style=for-the-badge&logo=seo&logoColor=white)
 
 ### **WordPress Themes & Custom Development**
@@ -592,6 +603,12 @@ Desktop-based system for managing cooperatives including membership, transaction
 
 ![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logoColor=white)
 ![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logoColor=white)
+
+### **React Native Ecosystem**
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ---
 
