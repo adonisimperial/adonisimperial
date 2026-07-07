@@ -130,7 +130,7 @@ Web and Mobile Real Time Citizen App For Crime Incident Reporting And Complaint 
 <tr>
 <td width="50%">
 
-<h3 align="center">iCoopHub 360</h3>
+<h3 align="center">iCoopHub 360 for CCEDO</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/icoophub360.png" width="100%" />
@@ -173,7 +173,7 @@ financial categorization, and government reporting.
 
 <td width="50%">
 
-<h3 align="center">DCE Tabulator</h3>
+<h3 align="center">DCE Tabulator for Tabuk City</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dcetabulator.png" width="100%" />
@@ -218,7 +218,7 @@ A powerful and flexible online tabulation system designed to manage and show res
 
 <td width="50%">
 
-<h3 align="center">CampusQR</h3>
+<h3 align="center">CampusQR by Aiken</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/campusqr.png" width="100%" />
@@ -255,7 +255,7 @@ Tracks student entry logs and presence on campus (not yet in production).
 
 <td width="50%">
 
-<h3 align="center">WorkforceQR</h3>
+<h3 align="center">WorkforceQR for A Legacy Metal Craft</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/workforceqr.png" width="100%" />
@@ -297,7 +297,7 @@ Monitors employee time-in/time-out and daily tracking.
 <tr>
 <td width="50%">
 
-<h3 align="center">DCE Website</h3>
+<h3 align="center">DCE Website and Social Network</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/dcewebsite.png" width="100%" />
@@ -406,7 +406,7 @@ Developed corporate and client-specific websites while at Catch Creative Labs.
 
 <td width="50%">
 
-<h3 align="center">CoopMS</h3>
+<h3 align="center">CoopMS for TCOEMPC</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://www.icoophub.com/storage/logos/fCk4YYoeMC0CjyUx5En3dRqOxnNyB7M9xcpmiBse.jpg" width="50%" />
