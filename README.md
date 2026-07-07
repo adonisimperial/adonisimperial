@@ -112,17 +112,15 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 <h4>Incident Reporting & Emergency Response Platform</h4>
 
 <p>
-A full-stack platform consisting of a Laravel-powered web management system and a cross-platform React Native mobile application for reporting, monitoring, and managing community incidents in real time.
+A web management system and hybrid mobile application for reporting, monitoring, and managing citizen incidents in real time.
 </p>
 
 </div>
 
 <ul>
-<li>Web-based administration and incident management dashboard</li>
+<li>Web-based administration, analytics and incident management dashboard</li>
 <li>Cross-platform Android & iOS mobile application</li>
 <li>Real-time incident reporting with GPS location and photo uploads</li>
-<li>Role-based access control, analytics, and reporting</li>
-<li>REST API with Laravel Sanctum authentication</li>
 </ul>
 
 </td>
