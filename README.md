@@ -79,6 +79,55 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 
 <div align="center">
 <table>
+
+<tr>
+<td colspan="2" width="100%">
+
+<h3 align="center">iSalakan</h3>
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/isalakan.png" width="100%" />
+</a>
+
+<br><br>
+
+<p>
+<a href="https://www.isalakan.com/" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
+<a href="https://www.isalakan.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+![Laravel 13](https://img.shields.io/badge/-Laravel%2013-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire 4](https://img.shields.io/badge/-Livewire%204-EC4899?style=for-the-badge&logo=livewire&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<small><i>Full-stack Platform • TALL Stack • React Native • REST API • Sanctum</i></small>
+
+<h4>Community Incident Reporting & Emergency Response Platform</h4>
+
+<p>
+A full-stack platform consisting of a Laravel-powered web management system and a cross-platform React Native mobile application for reporting, monitoring, and managing community incidents in real time.
+</p>
+
+</div>
+
+<ul>
+<li>Web-based administration and incident management dashboard</li>
+<li>Cross-platform Android & iOS mobile application</li>
+<li>Real-time incident reporting with GPS location and photo uploads</li>
+<li>Role-based access control, analytics, and reporting</li>
+<li>REST API with Laravel Sanctum authentication</li>
+</ul>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%">
 
