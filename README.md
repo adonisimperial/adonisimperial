@@ -83,7 +83,7 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 <tr>
 <td colspan="2" width="100%">
 
-<h3 align="center">iSalakan</h3>
+<h3 align="center">iSalakan by Tom</h3>
 <div align="center">
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/Adonis1120/Adonis1120/main/assets/isalakan.png" width="100%" />
@@ -109,7 +109,7 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 
 <small><i>Full-stack Platform • TALL Stack • React Native • REST API • Sanctum</i></small>
 
-<h4>Incident Reporting & Emergency Response Platform by Tom</h4>
+<h4>Incident Reporting & Emergency Response Platform</h4>
 
 <p>
 <!-- A web management system and hybrid mobile application for reporting, monitoring, and managing citizen incidents in real time.-->
