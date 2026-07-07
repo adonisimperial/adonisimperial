@@ -592,25 +592,40 @@ Desktop-based system for managing cooperatives including membership, transaction
 ### **Laravel Ecosystem & Features**
 <p>
 <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM"/>
+<img src="https://img.shields.io/badge/Fortify-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Fortify"/>
+<img src="https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Sanctum"/>
+<img src="https://img.shields.io/badge/API_Resources-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="API Resources"/>
+<img src="https://img.shields.io/badge/Validation-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Validation"/>
+<img src="https://img.shields.io/badge/Form_Requests-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Form Requests"/>
 <img src="https://img.shields.io/badge/Middleware-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Middleware"/>
 <img src="https://img.shields.io/badge/Policies-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Policies"/>
-<img src="https://img.shields.io/badge/Artisan_Commands-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Artisan Commands"/>
-<img src="https://img.shields.io/badge/Task_Scheduling-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Task Scheduling"/>
-<img src="https://img.shields.io/badge/Queues-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Queues"/>
+<img src="https://img.shields.io/badge/Events-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Events"/>
+<img src="https://img.shields.io/badge/Listeners-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Listeners"/>
 <img src="https://img.shields.io/badge/Notifications-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Notifications"/>
 <img src="https://img.shields.io/badge/Mail-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Mail"/>
-<img src="https://img.shields.io/badge/Services-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Services"/>
+<img src="https://img.shields.io/badge/Services-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Service Classes"/>
+<img src="https://img.shields.io/badge/Task_Scheduling-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Task Scheduling"/>
+<img src="https://img.shields.io/badge/Queues-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Queues"/>
+<img src="https://img.shields.io/badge/Database_Transactions-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Database Transactions"/>
 <img src="https://img.shields.io/badge/Caching-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Caching"/>
+<img src="https://img.shields.io/badge/File_Storage-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="File Storage"/>
+<img src="https://img.shields.io/badge/Artisan-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Artisan"/>
 </p>
 
 ### **Authentication & Authorization**
+
 ![Laravel Auth](https://img.shields.io/badge/Laravel_Auth-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire/Inertia](https://img.shields.io/badge/Livewire/Inertia-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Fortify](https://img.shields.io/badge/Fortify-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Session Authentication](https://img.shields.io/badge/Session_Authentication-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Email Verification](https://img.shields.io/badge/Email_Verification-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Password Reset](https://img.shields.io/badge/Password_Reset-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Authorization Policies](https://img.shields.io/badge/Authorization_Policies-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### **API & Architecture**
+![REST API](https://img.shields.io/badge/REST_API-4A4A4A?style=for-the-badge&logo=api&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-4A4A4A?style=for-the-badge&logo=api&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-DC382D?style=for-the-badge&logo=laravel&logoColor=white)
@@ -666,11 +681,17 @@ Desktop-based system for managing cooperatives including membership, transaction
 ![DotNetBar](https://img.shields.io/badge/-DotNetBar-0078D7?style=for-the-badge&logoColor=white)
 ![Crystal Reports](https://img.shields.io/badge/-Crystal%20Reports-000000?style=for-the-badge&logoColor=white)
 
-### **React Native Ecosystem**
+### **React Native Ecosystem (Mobile Development)**
 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Expo Camera](https://img.shields.io/badge/Expo_Camera-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Image Picker](https://img.shields.io/badge/Image_Picker-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
