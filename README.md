@@ -109,7 +109,7 @@ Live Production Systems, Production-ready Projects awaiting deployment or pilot 
 
 <small><i>Full-stack Platform • TALL Stack • React Native • REST API • Sanctum</i></small>
 
-<h4>Community Incident Reporting & Emergency Response Platform</h4>
+<h4>Incident Reporting & Emergency Response Platform</h4>
 
 <p>
 A full-stack platform consisting of a Laravel-powered web management system and a cross-platform React Native mobile application for reporting, monitoring, and managing community incidents in real time.
