@@ -22,7 +22,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="48" />
+  <img src="https://avatars.githubusercontent.com/u/51960834?s=60&v=4" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="48" />
   <br>
@@ -46,7 +46,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="60"/>
-  <img src="https://logo.svgcdn.com/devicon/livewire-original.svg" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/51960834?s=60&v=4" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
