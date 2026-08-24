@@ -67,7 +67,14 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <small><i><a href="#tech-section">See more...</a></i></small>
 </div>
 
-<br>
+<hr>
+
+### Expertise & Focus
+
+*   **Core Expertise:** Laravel (MVC & TALL Stack), WordPress, .NET
+*   **Familiar/Foundations:** Cloud Engineering, React Native
+*   **Experimenting/Learning:** Three.js / 3D Web Graphics, IoT (Internet of Things)
+
 <hr>
 
 <!-- REAL WORLD PROJECTS -->
