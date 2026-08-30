@@ -65,6 +65,7 @@ I deliver clean, maintainable, production‑ready solutions that make a real imp
   <br><br>
   <small><i>See more detailed technologies and skills on the Technology Expertise section below.</i></small><br>
   <small><i><a href="#tech-section">See more...</a></i></small>
+  <small><i><a href="#technology-expertise-summarized-by-areas">See more...</a></i></small>
 </div>
 
 <hr>
