@@ -533,9 +533,7 @@ Desktop-based system for managing cooperatives including membership, transaction
 > “Build systems that solve real problems and outlast trends, not just ship features.”
 ---
 
-<div id="tech-section"></div>
-
-## 🛠️ Technology Expertise Summarized by Areas
+## 🛠️ <span id="tech-section">Technology Expertise Summarized by Areas</span>
 
 ### **Core Competencies**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
